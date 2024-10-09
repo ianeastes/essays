@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "1faf9b77"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Coupled with Hughes's posture, the open notebook in front of him suggests a contemplative and thoughtful moment before Hughes produces poetry or short stories. The \"brainstorm\" of the background could signify things he is thinking of writing about. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/cbb584845e4f5f51b8a2f38f87e3b4124f1140dd8243ee6fe50c7ded002b4516",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1281.496337890625,2960.7392578125,783.638427734375,371.197265625"
+      },
+      "id": "cbb58484"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "29023974"
   }
 ]
