@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "b471b6a7"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Musical notes depict the contributions of African Americans to the Jazz Age and other musical movements during the Harlem Renaissance. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/cbb584845e4f5f51b8a2f38f87e3b4124f1140dd8243ee6fe50c7ded002b4516",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1640.9095458984375,450.7394104003906,665.7979736328125,471.3614807128906"
+      },
+      "id": "cbb58484"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1faf9b77"
   }
 ]
