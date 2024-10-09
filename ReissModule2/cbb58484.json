@@ -61,5 +61,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "29023974"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Harlem high-rises with smoke stacks suggest African American contributions to industry. This could be to point out that the working-class people of Harlem are perpetuating industrial progress. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/cbb584845e4f5f51b8a2f38f87e3b4124f1140dd8243ee6fe50c7ded002b4516",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:471.3438720703125,874.9647216796875,480.199462890625,630.4459228515625"
+      },
+      "id": "cbb58484"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f6d732ae"
   }
 ]
