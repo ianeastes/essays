@@ -4,3 +4,4 @@
 
 # *Langston Hughes*
 .ve-media wc:Langston_Hughes_by_Winold_Reiss_(51413).jpg
+Reiss's portrait, *Langston Hughes*, portrays Hughes as a thoughtful, professional leader of the Harlem Renaissance. The background of the portrait suggests African American contributions to music, poetry, and industry - a break from traditional portayals of African American stereotypes in art. 
