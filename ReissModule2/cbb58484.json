@@ -82,5 +82,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "f6d732ae"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The figure in the bed with visionary lights radiating from their head represent a creative idea session of a working-class resident dreaming of the future. This could be a representation of a younger Hughes. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/cbb584845e4f5f51b8a2f38f87e3b4124f1140dd8243ee6fe50c7ded002b4516",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2150.569091796875,1004.589111328125,371.197265625,592.1478271484375"
+      },
+      "id": "cbb58484"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4540a369"
   }
 ]
