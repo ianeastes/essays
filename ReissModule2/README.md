@@ -5,3 +5,16 @@
 # *Langston Hughes*
 .ve-media wc:Langston_Hughes_by_Winold_Reiss_(51413).jpg
 Reiss's portrait, *Langston Hughes*, portrays Hughes as a thoughtful, professional leader of the Harlem Renaissance. The background of the portrait suggests African American contributions to music, poetry, and industry - a break from traditional portayals of African American stereotypes in art. 
+
+# **Portfolios of Native and African American Communities**
+.ve-media wc:The_New_Negro_(page_8_crop).jpg left no-caption
+.ve-media wc:Night_woman,_a_Blackfeet_of_Montana._Pastel_by_W._Langdon_Ki_Wellcome_V0018128.jpg right no-caption
+Both of these works represent Reiss's work in Harlem and the Blackfeet Indian Reservation during the roaring 1920's. At this time, African Americans and Native Americans were underrepresented in American portraiture. Reiss, an immigrant from Germany with strong modernist influences, sought to represent influential leaders and regular community members from both populations. In the left image from "*The New Negro*",  a book documenting the Harlem Renaissance in realtime, Reiss highlights the community aspect by representing this image of mother and child between portraits of W. E. B. DuBois and Langston Hughes. In the image on the right, Reiss profiles Night Woman, a Blackfeet community leader. In his work creating images for the Great Northern Railroad and for Glacier National Park, Reiss attempted to present honest images of the entirety of the Blackfeet tribe. 
+
+# **New York Historical Society 2022 Exhibit**
+There have been few large scale exhibitions of Reiss's work, however the New York Historical Society gathered multiple of his works from public collections, with special highlights of his portraits for "*The New Negro*" book he illustrated for Alain LeRoy Locke - the "Dean" of the Harlem Renaissance. 
+.ve-video https://www.youtube.com/watch?v=tGfF69vuyf8
+
+
+
+
