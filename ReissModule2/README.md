@@ -21,5 +21,7 @@ There have been few large scale exhibitions of Reiss's work, however the New Yor
 ==African Fantasy: The Awakening, Painting==[Q20502616]
 ==Reiss, Winold Fritz (1886-1953), portrait painter, illustrator, and interior designer==[Q103876700]
 ==Study for Union Terminal Mosaic: Throwing at Rookwood Pottery==[Q46976497]
+[The Art of Winold Reiss: An Immigrant Modernist](https://www.nyhistory.org/exhibitions/the-art-of-winold-reiss-an-immigrant-modernist)
+
 
 
