@@ -15,6 +15,11 @@ Both of these works represent Reiss's work in Harlem and the Blackfeet Indian Re
 There have been few large scale exhibitions of Reiss's work, however the New York Historical Society gathered multiple of his works from public collections, with special highlights of his portraits for "*The New Negro*" book he illustrated for Alain LeRoy Locke - the "Dean" of the Harlem Renaissance. 
 .ve-video https://www.youtube.com/watch?v=tGfF69vuyf8
 
-
+#Additional Information
+==Winold Reiss==[Q2584780]
+==Acee Blue Eagle, Painting==[Q79306131]
+==African Fantasy: The Awakening, Painting==[Q20502616]
+==Reiss, Winold Fritz (1886-1953), portrait painter, illustrator, and interior designer==[Q103876700]
+==Study for Union Terminal Mosaic: Throwing at Rookwood Pottery==[Q46976497]
 
 
