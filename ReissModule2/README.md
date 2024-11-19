@@ -17,14 +17,23 @@ There have been few large scale exhibitions of Reiss's work, however the New Yor
 
 #Additional Information
 ==Winold Reiss==[Q2584780]
+
 ==Acee Blue Eagle, Painting==[Q79306131]
+
 ==African Fantasy: The Awakening, Painting==[Q20502616]
+
 ==Reiss, Winold Fritz (1886-1953), portrait painter, illustrator, and interior designer==[Q103876700]
+
 ==Study for Union Terminal Mosaic: Throwing at Rookwood Pottery==[Q46976497]
+
 [The Art of Winold Reiss: An Immigrant Modernist](https://www.nyhistory.org/exhibitions/the-art-of-winold-reiss-an-immigrant-modernist)
+
 [Life - Winold Reiss](https://winoldreiss.org/life/index.htm)
+
 [Connections: The Blackfeet and Winold Reiss](https://iacbmuseums-viewingroom.exhibit-e.art/viewing-room/connections-the-blackfeet-and-winold-reiss#tab:slideshow;tab-1:thumbnails)
+
 [Modern Design and Portraits of Dignity](https://asllinea.org/winold-reiss-portraits/)
+
 [Native Americans and Winold Reiss](https://www.cincinnatiartmuseum.org/about/blog/library-blog-8132019/)
 
 
